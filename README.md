@@ -1,4 +1,4 @@
-# smart_city_temp
+# Bhopal Smart City Hackathon 2.0
 
 # Idea !!!
 

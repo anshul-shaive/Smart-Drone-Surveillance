@@ -4,8 +4,8 @@
 
 We want to build an IoT network of connected drones and patrolling vehicles for better surveillance and security.
 
-![Screenshot](Capture1.PNG)
-![Screenshot](Capture2.PNG)
+![Screenshot](Capture1.png)
+![Screenshot](Capture2.png)
 ![Screenshot](main.png)
 # How ??
 

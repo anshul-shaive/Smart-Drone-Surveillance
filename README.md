@@ -17,6 +17,9 @@ A drone can be attached to a dial-100 vehicle and can be deployed and controlled
 
 # Why ???
 
+![Screenshot](Hostile_pose.png)
+
+
 Everybody wants peace and secure environment to live.So a surveillance system is required to achieve this goal.With increasing crimes and criminals it has become a must need to have such a surveillance system which can help the people right at the time and place of the crime.The technologies like Internet of Things (IOT) and artificial intelligence can lead to such results.So implementing the idea proposed will definitely help the security agencies and police to reduce the graph of crime along with much efficient use of technology.It will not only save the time but also the resources from being wasted.
 
 # Future Scope

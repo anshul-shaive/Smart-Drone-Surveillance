@@ -4,6 +4,7 @@
 
 We want to build an IoT network of connected drones and patrolling vehicles for better surveillance and security.
 
+![Screenshot](bhopal_web/website.jpg)
 ![Screenshot](Capture1.png)
 ![Screenshot](Capture2.png)
 ![Screenshot](main.png)

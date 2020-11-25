@@ -1,6 +1,6 @@
 # Bhopal Smart City Hackathon 2.0
 
-# Idea !!!
+# Summary
 
 We want to build an IoT network of connected drones and patrolling vehicles for better surveillance and security.
 
